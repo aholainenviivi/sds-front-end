@@ -1,0 +1,6 @@
+[submodule "sds-front-end-project"]
+	path = sds-front-end-project
+	url = https://github.com/aholainenviivi/sds-front-end-project.git
+[submodule "sds-front-end-tutorial"]
+	path = sds-front-end-tutorial
+	url = https://github.com/aholainenviivi/sds-front-end-tutorial.git
