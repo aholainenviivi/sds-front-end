@@ -20,10 +20,10 @@ Tutorial work
 
 ## Running the projects
 To run the projects:
-- git clone <link to repo>
+- git clone [link to repo]
   - link to tutorial work: https://github.com/aholainenviivi/sds-front-end-tutorial.git
   - link to project: https://github.com/aholainenviivi/sds-front-end-project.git
 - open the index.html in your browser or start a live server on vscode
  
 To remove the project:
-- rm -rf <cloned repo>
+- rm -rf [cloned repo]
